@@ -1,0 +1,124 @@
+{
+  "seasonalCollection": [
+    {
+      "id": 301,
+      "name": "Summer Dress",
+      "price": 1200,
+      "imageUrl": "https://m.media-amazon.com/images/I/61KM6Np2-oL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 302,
+      "name": "Winter Jacket",
+      "price": 2500,
+      "imageUrl": "https://m.media-amazon.com/images/I/61j2FBMg2LL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 303,
+      "name": "Raincoat",
+      "price": 1500,
+      "imageUrl": "https://m.media-amazon.com/images/I/61jTUHTH+rL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 304,
+      "name": "Spring Scarf",
+      "price": 300,
+      "imageUrl": "https://m.media-amazon.com/images/I/51++WE47MrL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 305,
+      "name": "Autumn Sweater",
+      "price": 1800,
+      "imageUrl": "https://m.media-amazon.com/images/I/A1VqsUt5t4L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 306,
+      "name": "Beach Hat",
+      "price": 500,
+      "imageUrl": "https://m.media-amazon.com/images/I/61Lz1kN1rhL._SX679_.jpg"
+    },
+    {
+      "id": 307,
+      "name": "Thermal Wear",
+      "price": 900,
+      "imageUrl": "https://m.media-amazon.com/images/I/61inWFzJYFL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 308,
+      "name": "Sun Protection Shirt",
+      "price": 1300,
+      "imageUrl": "https://m.media-amazon.com/images/I/71vQ39d7+5L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 309,
+      "name": "Lightweight Hoodie",
+      "price": 1000,
+      "imageUrl": "https://m.media-amazon.com/images/I/5162pwmojAL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 310,
+      "name": "Snow Boots",
+      "price": 3000,
+      "imageUrl": "https://m.media-amazon.com/images/I/51TQ7ZwXPEL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 311,
+      "name": "Waterproof Pants",
+      "price": 1600,
+      "imageUrl": "https://m.media-amazon.com/images/I/61wP1WO17fL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 312,
+      "name": "Floral Spring Dress",
+      "price": 1400,
+      "imageUrl": "https://m.media-amazon.com/images/I/71m1RicH-AL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 313,
+      "name": "Sun Hat",
+      "price": 450,
+      "imageUrl": "https://m.media-amazon.com/images/I/61MxugIGNaL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 314,
+      "name": "Fleece Jacket",
+      "price": 2200,
+      "imageUrl": "https://m.media-amazon.com/images/I/516+2miqAeL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 315,
+      "name": "Windbreaker",
+      "price": 1900,
+      "imageUrl": "https://m.media-amazon.com/images/I/71gto584LTL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 316,
+      "name": "Fall Cardigan",
+      "price": 1700,
+      "imageUrl": "https://m.media-amazon.com/images/I/611QVgo0hoL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 317,
+      "name": "Swim Trunks",
+      "price": 800,
+      "imageUrl": "https://m.media-amazon.com/images/I/71Pe-zrHhuL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 318,
+      "name": "Wool Beanie",
+      "price": 400,
+      "imageUrl": "https://m.media-amazon.com/images/I/51KHL8ZXAoL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 319,
+      "name": "Spring Blouse",
+      "price": 1200,
+      "imageUrl": "https://m.media-amazon.com/images/I/51awnjqoWEL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 320,
+      "name": "Insulated Gloves",
+      "price": 600,
+      "imageUrl": "https://m.media-amazon.com/images/I/41Td7vAKmVL._AC_UL480_FMwebp_QL65_.jpg"
+    }
+  ]
+}

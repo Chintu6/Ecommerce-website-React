@@ -1,0 +1,45 @@
+{
+    "mens": [
+      {
+        "id": "1",
+        "name": "Men's Shirt",
+        "price": 500,
+        "imageUrl": "/images/mens-shirt.jpg"
+      },
+      {
+        "id": "2",
+        "name": "Men's Jeans",
+        "price": 1200,
+        "imageUrl": "/images/mens-jeans.jpg"
+      }
+    ],
+    "womens": [
+      {
+        "id": "3",
+        "name": "Women's Kurti",
+        "price": 700,
+        "imageUrl": "/images/womens-kurti.jpg"
+      },
+      {
+        "id": "4",
+        "name": "Women's Saree",
+        "price": 1500,
+        "imageUrl": "/images/womens-saree.jpg"
+      }
+    ],
+    "newArrivals": [
+      {
+        "id": "5",
+        "name": "Unisex Hoodie",
+        "price": 1000,
+        "imageUrl": "/images/unisex-hoodie.jpg"
+      },
+      {
+        "id": "6",
+        "name": "Stylish Backpack",
+        "price": 800,
+        "imageUrl": "/images/stylish-backpack.jpg"
+      }
+    ]
+  }
+  

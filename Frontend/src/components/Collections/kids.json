@@ -1,0 +1,124 @@
+{
+  "kidsCollection": [
+    {
+      "id": 1,
+      "name": "Kids T-Shirt",
+      "price": "299",
+      "imageUrl": "https://m.media-amazon.com/images/I/81em2HTGHlL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Kids Jeans",
+      "price": "499",
+      "imageUrl": "https://m.media-amazon.com/images/I/319sBC6kdDL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Kids Hoodie",
+      "price": "799",
+      "imageUrl": "https://m.media-amazon.com/images/I/41LRRGNACFL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Kids Shorts",
+      "price": "199",
+      "imageUrl": "https://m.media-amazon.com/images/I/81PLHYWbNsL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Kids Sweater",
+      "price": "599",
+      "imageUrl": "https://m.media-amazon.com/images/I/61kXtTdGCfL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Kids Dress",
+      "price": "699",
+      "imageUrl": "https://m.media-amazon.com/images/I/81dS9MUwAVL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Kids Jacket",
+      "price": "999",
+      "imageUrl": "https://m.media-amazon.com/images/I/71i6J3EPZWL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Kids Cap",
+      "price": "149",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Vcl8MUEJL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Kids Socks",
+      "price": "99",
+      "imageUrl": "https://m.media-amazon.com/images/I/917lHHKv8KL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Kids Pajamas",
+      "price": "399",
+      "imageUrl": "https://m.media-amazon.com/images/I/61jb3h6u9ML._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Kids School Shoes",
+      "price": "499",
+      "imageUrl": "https://m.media-amazon.com/images/I/61tlLeEj9aL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Kids Sandals",
+      "price": "299",
+      "imageUrl": "https://m.media-amazon.com/images/I/61-vd7dwUhL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Kids Raincoat",
+      "price": "599",
+      "imageUrl": "https://m.media-amazon.com/images/I/51U5n0CdX+L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Kids Gloves",
+      "price": "199",
+      "imageUrl": "https://m.media-amazon.com/images/I/51vlfvXjvOL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Kids Belt",
+      "price": "149",
+      "imageUrl": "https://m.media-amazon.com/images/I/61NzSHAteqL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Kids Mittens",
+      "price": "99",
+      "imageUrl": "https://m.media-amazon.com/images/I/61KpTKwVLvL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Kids Pullover",
+      "price": "799",
+      "imageUrl": "https://m.media-amazon.com/images/I/41X12XA3YZL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Kids Skirt",
+      "price": "399",
+      "imageUrl": "https://m.media-amazon.com/images/I/61gFbbr7o4L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Kids Swimwear",
+      "price": "299",
+      "imageUrl": "https://m.media-amazon.com/images/I/51Rs6jVU49L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Kids Scarf",
+      "price": "99",
+      "imageUrl": "https://m.media-amazon.com/images/I/61wiEnK2scL._AC_UL480_FMwebp_QL65_.jpg"
+    }
+  ]
+}

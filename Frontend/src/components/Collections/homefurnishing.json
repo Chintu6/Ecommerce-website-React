@@ -1,0 +1,124 @@
+{
+  "homeFurnishings": [
+    {
+      "id": "homeFurnishings-1",
+      "name": "Cotton Blanket",
+      "price": "1200",
+      "imageUrl": "https://m.media-amazon.com/images/I/91Xss9+yfoL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "homeFurnishings-2",
+      "name": "Curtains Set",
+      "price": "1500",
+      "imageUrl": "https://m.media-amazon.com/images/I/919VLUNTcyL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "homeFurnishings-3",
+      "name": "Velvet Cushion Cover",
+      "price": "300",
+      "imageUrl": "https://m.media-amazon.com/images/I/71t4Bn4qhRL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "homeFurnishings-4",
+      "name": "Area Rug",
+      "price": "2500",
+      "imageUrl": "https://m.media-amazon.com/images/I/816xkRr9ArL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "homeFurnishings-5",
+      "name": "Bedspread",
+      "price": "2000",
+      "imageUrl": "https://m.media-amazon.com/images/I/912VsJdJHJL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "homeFurnishings-6",
+      "name": "Sofa Throw",
+      "price": "800",
+      "imageUrl": "https://m.media-amazon.com/images/I/81EoTdUhyEL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "homeFurnishings-7",
+      "name": "Table Runner",
+      "price": "450",
+      "imageUrl": "https://m.media-amazon.com/images/I/81oZGfUjIJL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "homeFurnishings-8",
+      "name": "Door Mat",
+      "price": "350",
+      "imageUrl": "https://m.media-amazon.com/images/I/81rubH-VPtL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "homeFurnishings-9",
+      "name": "Window Blinds",
+      "price": "1800",
+      "imageUrl": "https://m.media-amazon.com/images/I/81-m6xL4UYL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "homeFurnishings-10",
+      "name": "Wall Tapestry",
+      "price": "1300",
+      "imageUrl": "https://m.media-amazon.com/images/I/91SGHQJrm9S._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "homeFurnishings-11",
+      "name": "Throw Pillow",
+      "price": "500",
+      "imageUrl": "https://m.media-amazon.com/images/I/61BgwESv9XL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "homeFurnishings-12",
+      "name": "Quilt",
+      "price": "2200",
+      "imageUrl": "https://m.media-amazon.com/images/I/61S-wzAIZ6L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "homeFurnishings-13",
+      "name": "Cushion Insert",
+      "price": "250",
+      "imageUrl": "https://m.media-amazon.com/images/I/71+3Uh3eDzL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "homeFurnishings-14",
+      "name": "Dining Table Cover",
+      "price": "700",
+      "imageUrl": "https://m.media-amazon.com/images/I/814zZ8nhu-L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "homeFurnishings-15",
+      "name": "Linen Table Napkins",
+      "price": "150",
+      "imageUrl": "https://m.media-amazon.com/images/I/718Ad04KI4L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "homeFurnishings-16",
+      "name": "Floor Cushion",
+      "price": "1200",
+      "imageUrl": "https://m.media-amazon.com/images/I/71NvR1f7oRL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "homeFurnishings-17",
+      "name": "Decorative Table Cloth",
+      "price": "900",
+      "imageUrl": "https://m.media-amazon.com/images/I/81NqOAf+pUL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "homeFurnishings-18",
+      "name": "Terry Towel Set",
+      "price": "600",
+      "imageUrl": "https://m.media-amazon.com/images/I/814au3KPxHL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "homeFurnishings-19",
+      "name": "Sheer Curtain",
+      "price": "1100",
+      "imageUrl": "https://m.media-amazon.com/images/I/81oI6NzifDL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": "homeFurnishings-20",
+      "name": "Carpet",
+      "price": "3200",
+      "imageUrl": "https://m.media-amazon.com/images/I/61Pe1FVkl3L._AC_UL480_FMwebp_QL65_.jpg"
+    }
+  ]
+}

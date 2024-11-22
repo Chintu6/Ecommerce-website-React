@@ -1,0 +1,10 @@
+.card-img-top {
+    height: 300px;
+    object-fit: cover;
+  }
+  a{
+    text-decoration: none;
+  }
+  .text-center {
+    text-align: center;
+}

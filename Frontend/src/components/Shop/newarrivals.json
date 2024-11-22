@@ -1,0 +1,83 @@
+{
+  "newArrivals": [
+    {
+      "id": 1,
+      "category": "Sustainable Fabrics",
+      "items": [
+        { "id": 101, "name": "Organic Cotton Kurti", "price": 1200, "imageUrl": "https://m.media-amazon.com/images/I/71IxguwPEfL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 102, "name": "Khadi Cotton Saree", "price": 2500, "imageUrl": "https://m.media-amazon.com/images/I/51xW6ATA0NL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 103, "name": "Bamboo Cotton Shirt", "price": 950, "imageUrl": "https://m.media-amazon.com/images/I/51b8hgqwSTL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 104, "name": "Linen Skirt", "price": 850, "imageUrl": "https://m.media-amazon.com/images/I/71-LSdi8xBL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 105, "name": "Jute Tote Bag", "price": 500, "imageUrl": "https://m.media-amazon.com/images/I/71inKBlUsFL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 106, "name": "Recycled Cotton T-shirt", "price": 799, "imageUrl": "https://m.media-amazon.com/images/I/61j0vRFcLRL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 107, "name": "Hemp Cotton Tunic", "price": 1300, "imageUrl": "https://m.media-amazon.com/images/I/71MUHn+zAJL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 108, "name": "Organic Linen Top", "price": 1450, "imageUrl": "https://m.media-amazon.com/images/I/61oVYBPDwDL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 109, "name": "Recycled Polyester Shorts", "price": 700, "imageUrl": "https://m.media-amazon.com/images/I/71DHILTLeqL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 110, "name": "Eco-friendly Cotton Skirt", "price": 950, "imageUrl": "https://m.media-amazon.com/images/I/91scbfddetL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 111, "name": "Bamboo Fiber T-shirt", "price": 850, "imageUrl": "https://m.media-amazon.com/images/I/61CJ7-wQjNL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 112, "name": "Jute Sandals", "price": 650, "imageUrl": "https://m.media-amazon.com/images/I/51EujGawc2L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 113, "name": "Hemp Cotton Scarf", "price": 400, "imageUrl": "https://m.media-amazon.com/images/I/81nH3r6J6CL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 114, "name": "Organic Cotton Dress", "price": 1800, "imageUrl": "https://m.media-amazon.com/images/I/81Pog8OWp6L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 115, "name": "Recycled Polyester Jacket", "price": 2200, "imageUrl": "https://m.media-amazon.com/images/I/51tIl25yogL._AC_UL480_FMwebp_QL65_.jpg" }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Ethnic Fusion Wear",
+      "items": [
+        { "id": 201, "name": "Saree with Peplum Blouse", "price": 3500, "imageUrl": "https://m.media-amazon.com/images/I/91JAbR3fFUL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 202, "name": "Lehenga with Crop Top", "price": 4500, "imageUrl": "https://m.media-amazon.com/images/I/81JelQM7U3L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 203, "name": "Kurti with Slim Fit Pants", "price": 1600, "imageUrl": "https://m.media-amazon.com/images/I/51Co7Q7pZML._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 204, "name": "Anarkali Dress with Boots", "price": 3000, "imageUrl": "https://m.media-amazon.com/images/I/41P6CQFDIuL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 205, "name": "Ethnic Jacket with Trousers", "price": 2200, "imageUrl": "https://m.media-amazon.com/images/I/81fU1N6Ov7L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 206, "name": "Cotton Churidar with Denim Jacket", "price": 1800, "imageUrl": "https://m.media-amazon.com/images/I/81YehS74pOL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 207, "name": "Peplum Kurti with Palazzo Pants", "price": 2500, "imageUrl": "https://m.media-amazon.com/images/I/61OpcmD7i9L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 208, "name": "Dhoti Pants with Tunic Top", "price": 2200, "imageUrl": "https://m.media-amazon.com/images/I/71vOUb1-ZcL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 209, "name": "Long Kurti with Leather Belt", "price": 1700, "imageUrl": "https://m.media-amazon.com/images/I/41JQsjyf8uL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 210, "name": "Lehenga Choli with Jacket", "price": 4000, "imageUrl": "https://m.media-amazon.com/images/I/51VxlcLtBJL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 211, "name": "Anarkali with Shrug", "price": 3500, "imageUrl": "https://m.media-amazon.com/images/I/817HN3TtvxL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 212, "name": "Fusion Salwar Kameez with Blazer", "price": 2800, "imageUrl": "https://m.media-amazon.com/images/I/71yebBq7BRL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 213, "name": "Floral Kurti with Distressed Jeans", "price": 1800, "imageUrl": "https://m.media-amazon.com/images/I/81Ho8Ke6DbL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 214, "name": "Indo-Western Dress with Boots", "price": 2500, "imageUrl": "https://m.media-amazon.com/images/I/71qpWDDW-YL._AC_UL480_FMwebp_QL65_.jpg" }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Bridal and Festive Collections",
+      "items": [
+        { "id": 301, "name": "Embroidered Bridal Lehenga", "price": 25000, "imageUrl": "https://m.media-amazon.com/images/I/91kvMZmY7NL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 302, "name": "Pastel Wedding Saree", "price": 15000, "imageUrl": "https://m.media-amazon.com/images/I/61YRppv3qeL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 303, "name": "Designer Anarkali Gown", "price": 12000, "imageUrl": "https://m.media-amazon.com/images/I/6110CJb9OBL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 304, "name": "Gold Embroidered Silk Sari", "price": 18000, "imageUrl": "https://m.media-amazon.com/images/I/71SYCBsloBL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 305, "name": "Lehenga Choli Set", "price": 20000, "imageUrl": "https://m.media-amazon.com/images/I/81dCX5PK8HL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 306, "name": "Bridal Dupatta", "price": 5000, "imageUrl": "https://m.media-amazon.com/images/I/81BB-UQFNLL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 307, "name": "Embroidered Wedding Saree", "price": 22000, "imageUrl": "https://m.media-amazon.com/images/I/710aLeQAK0L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 308, "name": "Traditional Bridal Lehenga", "price": 27000, "imageUrl": "https://m.media-amazon.com/images/I/81viOabWsiL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 309, "name": "Bridal Anarkali with Heavy Embroidery", "price": 24000, "imageUrl": "https://m.media-amazon.com/images/I/71aD3Hw93vL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 310, "name": "Festive Silk Saree", "price": 12000, "imageUrl": "https://m.media-amazon.com/images/I/81FNeznnX0L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 311, "name": "Wedding Lehenga Set", "price": 22000, "imageUrl": "https://m.media-amazon.com/images/I/71qehTX+Z1L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 312, "name": "Bridal Saree with Zari Border", "price": 15000, "imageUrl": "https://m.media-amazon.com/images/I/91nJEchrenL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 313, "name": "Festive Kurti with Heavy Embroidery", "price": 3500, "imageUrl": "https://m.media-amazon.com/images/I/61FXIYqhdbL._AC_UL480_FMwebp_QL65_.jpg" }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "Linen and Lightweight Fabrics",
+      "items": [
+        { "id": 401, "name": "Linen Shirt for Men", "price": 1200, "imageUrl": "https://m.media-amazon.com/images/I/61RD2-GNloL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 402, "name": "Linen Pants", "price": 1500, "imageUrl": "https://m.media-amazon.com/images/I/61shxvkle6L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 403, "name": "Cotton-Linen Mix Kurti", "price": 950, "imageUrl": "https://m.media-amazon.com/images/I/41NZC6OZSqL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 404, "name": "Linen Dress", "price": 1600, "imageUrl": "https://m.media-amazon.com/images/I/71YLiztqvBL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 405, "name": "Linen Dupatta", "price": 800, "imageUrl": "https://m.media-amazon.com/images/I/51Gnf+TAXtS._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 406, "name": "Linen Blend Blouse", "price": 1100, "imageUrl": "https://m.media-amazon.com/images/I/91zQ27sWXLL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 407, "name": "Men's Linen Shorts", "price": 1000, "imageUrl": "https://m.media-amazon.com/images/I/51YqKWM-GEL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 408, "name": "Linen Skirt", "price": 1200, "imageUrl": "https://m.media-amazon.com/images/I/71NzYy2yTSL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 409, "name": "Linen Blend Shirt", "price": 1400, "imageUrl": "https://m.media-amazon.com/images/I/51cNMNimNGL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 410, "name": "Linen Pants for Women", "price": 1600, "imageUrl": "https://m.media-amazon.com/images/I/41oKUQYgtfL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 411, "name": "Striped Linen Dress", "price": 1800, "imageUrl": "https://m.media-amazon.com/images/I/51J2HYSIvEL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 412, "name": "Linen Waistcoat", "price": 2000, "imageUrl": "https://m.media-amazon.com/images/I/61qM4C3pEOL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 413, "name": "Linen Kimono", "price": 2200, "imageUrl": "https://m.media-amazon.com/images/I/61oVYBPDwDL._SY741_.jpg" }
+      ]
+    }
+  ]
+}

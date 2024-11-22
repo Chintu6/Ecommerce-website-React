@@ -1,0 +1,124 @@
+{
+  "festiveWedding": [
+    {
+      "id": 101,
+      "name": "Traditional Saree",
+      "price": 3000,
+      "imageUrl": "https://m.media-amazon.com/images/I/81G+QgfrLiL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 102,
+      "name": "Wedding Sherwani",
+      "price": 5000,
+      "imageUrl": "https://www.bing.com/th?id=OIP._8EL8z0LWj38ObYK1yXiaAAAAA&w=146&h=195&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+    },
+    {
+      "id": 103,
+      "name": "Embroidered Lehenga",
+      "price": 4500,
+      "imageUrl": "https://m.media-amazon.com/images/I/61089aAOc1L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 104,
+      "name": "Silk Kurta",
+      "price": 2500,
+      "imageUrl": "https://m.media-amazon.com/images/I/61ALlmgxBPL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 105,
+      "name": "Bridal Gown",
+      "price": 6000,
+      "imageUrl": "https://m.media-amazon.com/images/I/41jSyg8xbqL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 106,
+      "name": "Designer Anarkali",
+      "price": 4000,
+      "imageUrl": "https://m.media-amazon.com/images/I/61jc3X7H+1L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 107,
+      "name": "Men's Jodhpuri Suit",
+      "price": 5500,
+      "imageUrl": "https://m.media-amazon.com/images/I/71BbvtqeP3L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 108,
+      "name": "Pashmina Shawl",
+      "price": 3500,
+      "imageUrl": "https://m.media-amazon.com/images/I/71sBkCPdd7L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 109,
+      "name": "Gold Embellished Saree",
+      "price": 4800,
+      "imageUrl": "https://m.media-amazon.com/images/I/81RxQoIsRML._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 110,
+      "name": "Velvet Sherwani",
+      "price": 5300,
+      "imageUrl": "https://m.media-amazon.com/images/I/71vzmBILwvL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 111,
+      "name": "Bridal Dupatta",
+      "price": 1200,
+      "imageUrl": "https://m.media-amazon.com/images/I/81F6g3scg+L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 112,
+      "name": "Festive Salwar Suit",
+      "price": 3200,
+      "imageUrl": "https://m.media-amazon.com/images/I/61EdtBqudNL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 113,
+      "name": "Embroidered Waistcoat",
+      "price": 1800,
+      "imageUrl": "https://m.media-amazon.com/images/I/714evWzi-hL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 114,
+      "name": "Brocade Lehenga Choli",
+      "price": 4700,
+      "imageUrl": "https://m.media-amazon.com/images/I/818neIUCmyL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 115,
+      "name": "Banarasi Dupatta",
+      "price": 1300,
+      "imageUrl": "https://m.media-amazon.com/images/I/618X017mjyL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 116,
+      "name": "Traditional Kurta Pajama",
+      "price": 2100,
+      "imageUrl": "https://m.media-amazon.com/images/I/610mVERKqlL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 117,
+      "name": "Festive Gown",
+      "price": 3600,
+      "imageUrl": "https://m.media-amazon.com/images/I/81o2fz5SzWL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 118,
+      "name": "Wedding Bandhgala",
+      "price": 6200,
+      "imageUrl": "https://m.media-amazon.com/images/I/4189wqThUFL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 119,
+      "name": "Chiffon Saree",
+      "price": 2800,
+      "imageUrl": "https://m.media-amazon.com/images/I/6169296pKmL._SY879_.jpg"
+    },
+    {
+      "id": 120,
+      "name": "Men's Kurta with Stole",
+      "price": 2700,
+      "imageUrl": "https://m.media-amazon.com/images/I/81MgYuGzKoL._AC_UL480_FMwebp_QL65_.jpg"
+    }
+  ]
+}

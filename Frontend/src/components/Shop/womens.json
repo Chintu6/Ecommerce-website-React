@@ -1,0 +1,114 @@
+{
+  "womensWear": [
+    {
+      "id": 1,
+      "category": "Sarees",
+      "items": [
+        { "id": "W1-1", "name": "Cotton Saree", "price": 1200, "imageUrl": "https://m.media-amazon.com/images/I/71yOlTfCDDL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W1-2", "name": "Silk Saree", "price": 2500, "imageUrl": "https://m.media-amazon.com/images/I/61OlJMyBvxS._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W1-3", "name": "Georgette Saree", "price": 1800, "imageUrl": "https://m.media-amazon.com/images/I/71pro9dA7wL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W1-4", "name": "Banarasi Silk Saree", "price": 3000, "imageUrl": "https://m.media-amazon.com/images/I/71vg-siYnqL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W1-5", "name": "Chiffon Saree", "price": 2200, "imageUrl": "https://m.media-amazon.com/images/I/719Ii9yIyZL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W1-6", "name": "Kanjivaram Saree", "price": 5000, "imageUrl": "https://m.media-amazon.com/images/I/81Sbh8m0wnL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W1-7", "name": "Printed Saree", "price": 1500, "imageUrl": "https://m.media-amazon.com/images/I/71d3AmjKb-L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W1-8", "name": "Crepe Saree", "price": 1600, "imageUrl": "https://m.media-amazon.com/images/I/81vY3ZtiQ8L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W1-9", "name": "Designer Saree", "price": 4500, "imageUrl": "https://m.media-amazon.com/images/I/81xJnz+U54L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W1-10", "name": "Embroidered Saree", "price": 3800, "imageUrl": "https://m.media-amazon.com/images/I/71d4byMPGIL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W1-11", "name": "Linen Saree", "price": 2200, "imageUrl": "https://m.media-amazon.com/images/I/819WN63ma6L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W1-12", "name": "Satin Saree", "price": 2500, "imageUrl": "https://m.media-amazon.com/images/I/719kDXQI+hL._SY879_.jpg" },
+        { "id": "W1-13", "name": "Cotton Blend Saree", "price": 1300, "imageUrl": "https://m.media-amazon.com/images/I/81eNzbLfU0L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W1-14", "name": "Heavy Work Saree", "price": 4000, "imageUrl": "https://m.media-amazon.com/images/I/61iFSduiaQL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W1-15", "name": "Net Saree", "price": 2700, "imageUrl": "https://m.media-amazon.com/images/I/81aMvFPT24L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W1-16", "name": "Tissue Saree", "price": 2100, "imageUrl": "https://m.media-amazon.com/images/I/613355qNjbL._AC_UL480_FMwebp_QL65_.jpg" }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Salwar Suits",
+      "items": [
+        { "id": "W2-1", "name": "Anarkali Suit", "price": 1500, "imageUrl": "https://m.media-amazon.com/images/I/61UaOebngeL._SY879_.jpg" },
+        { "id": "W2-2", "name": "Churidar Suit", "price": 1000, "imageUrl": "https://m.media-amazon.com/images/I/81iRAUgJ1IL._SY879_.jpg" },
+        { "id": "W2-3", "name": "Straight Cut Suit", "price": 1200, "imageUrl": "https://m.media-amazon.com/images/I/71Z8ave2H8L._SX679_.jpg" },
+        { "id": "W2-4", "name": "Palazzo Suit", "price": 1100, "imageUrl": "https://m.media-amazon.com/images/I/81i90F4GFOL._SY879_.jpg" },
+        { "id": "W2-5", "name": "Kameez Set", "price": 950, "imageUrl": "https://m.media-amazon.com/images/I/41o1Wbr+zPL.jpg" },
+        { "id": "W2-6", "name": "Floor Length Anarkali", "price": 1800, "imageUrl": "https://m.media-amazon.com/images/I/81U02r5MdNL._SX679_.jpg" },
+        { "id": "W2-7", "name": "Sharara Suit", "price": 2200, "imageUrl": "https://m.media-amazon.com/images/I/81b-L5ig8eL._SY879_.jpg" },
+        { "id": "W2-8", "name": "Chikan Kari Suit", "price": 1400, "imageUrl": "https://m.media-amazon.com/images/I/61kvXNqLkrL._SY879_.jpg" },
+        { "id": "W2-9", "name": "Dupatta Set", "price": 800, "imageUrl": "https://m.media-amazon.com/images/I/71mX4WATh-L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W2-10", "name": "Pakistani Suit", "price": 2300, "imageUrl": "https://m.media-amazon.com/images/I/71Y6rdUqTdL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W2-11", "name": "Designer Salwar Kameez", "price": 3200, "imageUrl": "https://m.media-amazon.com/images/I/81iRAUgJ1IL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W2-12", "name": "Cotton Salwar Suit", "price": 900, "imageUrl": "https://m.media-amazon.com/images/I/61NgeVCm6wL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W2-13", "name": "Embroidered Salwar", "price": 1600, "imageUrl": "https://m.media-amazon.com/images/I/517BRBZrp5L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W2-14", "name": "Banarasi Salwar Suit", "price": 2500, "imageUrl": "https://m.media-amazon.com/images/I/51OS9QwcKwL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W2-15", "name": "Silk Salwar Kameez", "price": 2200, "imageUrl": "https://m.media-amazon.com/images/I/51OfwpVkPvL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W2-16", "name": "Floral Printed Suit", "price": 1100, "imageUrl": "https://m.media-amazon.com/images/I/91RI1llX3PL._AC_UL480_FMwebp_QL65_.jpg" }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Lehengas",
+      "items": [
+        { "id": "W3-1", "name": "Bridal Lehenga", "price": 3500, "imageUrl": "https://m.media-amazon.com/images/I/91GSSg7TzaL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W3-2", "name": "Party Lehenga", "price": 2200, "imageUrl": "https://m.media-amazon.com/images/I/915Alil7xiL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W3-3", "name": "Wedding Lehenga", "price": 5000, "imageUrl": "https://m.media-amazon.com/images/I/91KqI5NBZAL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W3-4", "name": "Semi Bridal Lehenga", "price": 3500, "imageUrl": "https://m.media-amazon.com/images/I/81ef50-sx9L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W3-5", "name": "Casual Lehenga", "price": 1500, "imageUrl": "https://m.media-amazon.com/images/I/61hMV9WpHAL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W3-6", "name": "Net Lehenga", "price": 2500, "imageUrl": "https://m.media-amazon.com/images/I/41D06fg4E9L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W3-7", "name": "Traditional Lehenga", "price": 4000, "imageUrl": "https://m.media-amazon.com/images/I/41jC-vbDfHL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W3-8", "name": "Designer Lehenga", "price": 6000, "imageUrl": "https://m.media-amazon.com/images/I/91KqI5NBZAL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W3-9", "name": "Heavy Work Lehenga", "price": 4500, "imageUrl": "https://m.media-amazon.com/images/I/818neIUCmyL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W3-10", "name": "Lightweight Lehenga", "price": 2200, "imageUrl": "https://m.media-amazon.com/images/I/41-U9YmXb6L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W3-11", "name": "Floor Length Lehenga", "price": 3500, "imageUrl": "https://m.media-amazon.com/images/I/71OLb6o+ZhL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W3-12", "name": "Georgette Lehenga", "price": 2800, "imageUrl": "https://m.media-amazon.com/images/I/81ef50-sx9L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W3-13", "name": "Silk Lehenga", "price": 3800, "imageUrl": "https://m.media-amazon.com/images/I/61t7PHG1LaL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W3-14", "name": "A-Line Lehenga", "price": 2700, "imageUrl": "https://m.media-amazon.com/images/I/91mX1Q6WDUL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W3-15", "name": "Choli Lehenga", "price": 2200, "imageUrl": "https://m.media-amazon.com/images/I/71I24+q+kzL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W3-16", "name": "Floral Lehenga", "price": 2000, "imageUrl": "https://m.media-amazon.com/images/I/41N2F2GbFPL._AC_UL480_FMwebp_QL65_.jpg" }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "Kurtis and Kurtas",
+      "items": [
+        { "id": "W4-1", "name": "Straight Kurta", "price": 800, "imageUrl": "https://m.media-amazon.com/images/I/71NZHJGjK-L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W4-2", "name": "A-Line Kurta", "price": 950, "imageUrl": "https://m.media-amazon.com/images/I/31JRgXt9SmL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W4-3", "name": "Embroidered Kurta", "price": 1200, "imageUrl": "https://m.media-amazon.com/images/I/71rP-XicokL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W4-4", "name": "Long Kurta", "price": 1100, "imageUrl": "https://m.media-amazon.com/images/I/81xO6abgc9L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W4-5", "name": "Short Kurta", "price": 750, "imageUrl": "https://m.media-amazon.com/images/I/510ZD2SKmOL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W4-6", "name": "Flared Kurta", "price": 1000, "imageUrl": "https://m.media-amazon.com/images/I/419vCfkH86L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W4-7", "name": "Designer Kurta", "price": 1500, "imageUrl": "https://m.media-amazon.com/images/I/71BLkd39VKL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W4-8", "name": "Cotton Kurta", "price": 850, "imageUrl": "https://m.media-amazon.com/images/I/71IxguwPEfL._SY879_.jpg" },
+        { "id": "W4-9", "name": "Chikan Kurta", "price": 1300, "imageUrl": "https://m.media-amazon.com/images/I/6108S6wrZRL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W4-10", "name": "Mandarin Collar Kurta", "price": 1400, "imageUrl": "https://m.media-amazon.com/images/I/61wi2rBaErL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W4-11", "name": "Silk Kurta", "price": 1700, "imageUrl": "https://m.media-amazon.com/images/I/61K31ClSnDL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W4-12", "name": "Knee-Length Kurta", "price": 1100, "imageUrl": "https://m.media-amazon.com/images/I/51xcV-VY-6L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W4-13", "name": "Pleated Kurta", "price": 1200, "imageUrl": "https://m.media-amazon.com/images/I/71nSjNkZxOL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W4-14", "name": "Kaftan Kurta", "price": 1600, "imageUrl": "https://m.media-amazon.com/images/I/61Q8+YwWgBL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W4-15", "name": "Anarkali Kurta", "price": 1800, "imageUrl": "https://m.media-amazon.com/images/I/71x8bFz2hRL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W4-16", "name": "Layered Kurta", "price": 1300, "imageUrl": "https://m.media-amazon.com/images/I/81QK9h1ZfOL._AC_UL480_FMwebp_QL65_.jpg" }
+      ]
+    },
+    {
+      "id": 5,
+      "category": "Western Wear",
+      "items": [
+        { "id": "W5-1", "name": "Denim Jacket", "price": 2500, "imageUrl": "https://m.media-amazon.com/images/I/71qC1Z0L7OL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W5-2", "name": "Maxi Dress", "price": 2200, "imageUrl": "https://m.media-amazon.com/images/I/71WgT9TgE3L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W5-3", "name": "Crop Top", "price": 1200, "imageUrl": "https://m.media-amazon.com/images/I/61BfP4VtGrL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W5-4", "name": "Palazzo Pants", "price": 1500, "imageUrl": "https://m.media-amazon.com/images/I/61x4mGbR1xL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W5-5", "name": "Skater Dress", "price": 1800, "imageUrl": "https://m.media-amazon.com/images/I/81H6oZc7RLL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W5-6", "name": "Jumpsuit", "price": 2500, "imageUrl": "https://m.media-amazon.com/images/I/61GqJ0M2pAL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W5-7", "name": "Tunic Top", "price": 1300, "imageUrl": "https://m.media-amazon.com/images/I/71gH1q4HcNL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W5-8", "name": "A-line Skirt", "price": 1400, "imageUrl": "https://m.media-amazon.com/images/I/71c9U0D8WXL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W5-9", "name": "Bodycon Dress", "price": 2000, "imageUrl": "https://m.media-amazon.com/images/I/71V7Zf-5gWL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W5-10", "name": "Blazer", "price": 3000, "imageUrl": "https://m.media-amazon.com/images/I/81W5oF8K7FL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W5-11", "name": "Shorts", "price": 900, "imageUrl": "https://m.media-amazon.com/images/I/61aQXGfW1XL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W5-12", "name": "Cardigan", "price": 1800, "imageUrl": "https://m.media-amazon.com/images/I/71e8D1QdQDL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W5-13", "name": "Casual T-shirt", "price": 700, "imageUrl": "https://m.media-amazon.com/images/I/61b0gG0eDgL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W5-14", "name": "Leggings", "price": 800, "imageUrl": "https://m.media-amazon.com/images/I/71aD9X0L5YL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W5-15", "name": "Sweater", "price": 2200, "imageUrl": "https://m.media-amazon.com/images/I/71Z4Z8E-1gL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": "W5-16", "name": "Pencil Skirt", "price": 1800, "imageUrl": "https://m.media-amazon.com/images/I/71e2xQ9TgUL._AC_UL480_FMwebp_QL65_.jpg" }
+      ]
+    }
+  ]
+}

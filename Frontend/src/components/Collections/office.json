@@ -1,0 +1,124 @@
+{
+  "officeUniforms": [
+    {
+      "id": 201,
+      "name": "Office Shirt",
+      "price": 800,
+      "imageUrl": "https://m.media-amazon.com/images/I/71Jwe2kb5pL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 202,
+      "name": "School Blazer",
+      "price": 1500,
+      "imageUrl": "https://m.media-amazon.com/images/I/51hS0LWaDCL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 203,
+      "name": "Office Trousers",
+      "price": 900,
+      "imageUrl": "https://m.media-amazon.com/images/I/51gojrIqIpL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 204,
+      "name": "Office Blazer",
+      "price": 1800,
+      "imageUrl": "https://m.media-amazon.com/images/I/51kyY5T0nKL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 205,
+      "name": "Office Tie",
+      "price": 200,
+      "imageUrl": "https://m.media-amazon.com/images/I/71iHWcONgXL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 206,
+      "name": "Office Skirt",
+      "price": 700,
+      "imageUrl": "https://m.media-amazon.com/images/I/61KgoICwwAL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 207,
+      "name": "Office Suit",
+      "price": 2500,
+      "imageUrl": "https://m.media-amazon.com/images/I/61Sr0g0bTwL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 208,
+      "name": "Office Vest",
+      "price": 400,
+      "imageUrl": "https://m.media-amazon.com/images/I/41JFYueJXdL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 209,
+      "name": "Office Shoes",
+      "price": 1200,
+      "imageUrl": "https://m.media-amazon.com/images/I/71x8qc2sgiL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 210,
+      "name": "Office Belt",
+      "price": 300,
+      "imageUrl": "https://m.media-amazon.com/images/I/71PWQ1b8LHL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 211,
+      "name": "Office Socks",
+      "price": 150,
+      "imageUrl": "https://m.media-amazon.com/images/I/61dT7yjFZIL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 212,
+      "name": "School Shirt",
+      "price": 500,
+      "imageUrl": "https://m.media-amazon.com/images/I/51GaeWOOe7L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 213,
+      "name": "School Trousers",
+      "price": 600,
+      "imageUrl": "https://m.media-amazon.com/images/I/31bs546ym5L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 214,
+      "name": "School Tie",
+      "price": 100,
+      "imageUrl": "https://m.media-amazon.com/images/I/61q1TsBKOAL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 215,
+      "name": "School Shoes",
+      "price": 900,
+      "imageUrl": "https://m.media-amazon.com/images/I/61tlLeEj9aL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 216,
+      "name": "School Socks",
+      "price": 100,
+      "imageUrl": "https://m.media-amazon.com/images/I/91iXV734L0L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 217,
+      "name": "Security Guard Shirt",
+      "price": 700,
+      "imageUrl": "https://m.media-amazon.com/images/I/61XDC1ung9L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 218,
+      "name": "Security Guard Trousers",
+      "price": 800,
+      "imageUrl": "https://m.media-amazon.com/images/I/51BPbaR+llL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 219,
+      "name": "Lab Coat",
+      "price": 1200,
+      "imageUrl": "https://m.media-amazon.com/images/I/41oK+S2l-BL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 220,
+      "name": "Chef Uniform",
+      "price": 1500,
+      "imageUrl": "https://m.media-amazon.com/images/I/41hIhmm4EvL._AC_UL480_FMwebp_QL65_.jpg"
+    }
+  ]
+}

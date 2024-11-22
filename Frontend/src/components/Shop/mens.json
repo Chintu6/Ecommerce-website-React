@@ -1,0 +1,143 @@
+{
+  "mensWear": [
+    {
+      "id": 1,
+      "category": "Dhotis",
+      "description": "Traditional Indian lower garment, often available in plain, bordered, and designer styles.",
+      "items": [
+        { "id": 101, "name": "Plain Dhoti", "price": 500, "imageUrl": "https://m.media-amazon.com/images/I/51hfhm4AMVL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 102, "name": "Bordered Dhoti", "price": 700, "imageUrl": "https://m.media-amazon.com/images/I/41MwS4U88fL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 103, "name": "Designer Dhoti", "price": 1200, "imageUrl": "https://m.media-amazon.com/images/I/61jVAyyb1NL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 104, "name": "Cotton Dhoti", "price": 600, "imageUrl": "https://m.media-amazon.com/images/I/71qNdQkjlfS._SX679_.jpg" },
+        { "id": 105, "name": "Silk Dhoti", "price": 1500, "imageUrl": "https://m.media-amazon.com/images/I/41oQRPI2w-L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 106, "name": "Wool Dhoti", "price": 1000, "imageUrl": "https://m.media-amazon.com/images/I/71739n7cQFL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 107, "name": "Linen Dhoti", "price": 650, "imageUrl": "https://m.media-amazon.com/images/I/51V0ALz8GpL._SX679_.jpg" },
+        { "id": 108, "name": "Plain Cotton Dhoti", "price": 550, "imageUrl": "https://m.media-amazon.com/images/I/51hfhm4AMVL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 109, "name": "Heavy Bordered Dhoti", "price": 800, "imageUrl": "https://m.media-amazon.com/images/I/51IoW7M-HJL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 110, "name": "Designer Cotton Dhoti", "price": 950, "imageUrl": "https://m.media-amazon.com/images/I/61XRcO7ndpL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 111, "name": "Kashmiri Silk Dhoti", "price": 1800, "imageUrl": "https://m.media-amazon.com/images/I/71PHZE3hPjL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 112, "name": "Banarasi Dhoti", "price": 2200, "imageUrl": "https://m.media-amazon.com/images/I/61qdCTQb1vL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 113, "name": "Chanderi Dhoti", "price": 1300, "imageUrl": "https://m.media-amazon.com/images/I/61ogomP4SUL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 114, "name": "Georgette Dhoti", "price": 1600, "imageUrl": "https://m.media-amazon.com/images/I/71Nm91fDr5L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 115, "name": "Tussar Silk Dhoti", "price": 2000, "imageUrl": "https://m.media-amazon.com/images/I/61c4GizRt9L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 116, "name": "Madhubani Printed Dhoti", "price": 1100, "imageUrl": "https://m.media-amazon.com/images/I/71tD+bUQlwL._AC_UL480_FMwebp_QL65_.jpg" }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Shirting Fabrics",
+      "description": "Fabrics specifically for making shirts, available in various materials like cotton, linen, and blends.",
+      "items": [
+        { "id": 201, "name": "Cotton Shirt Fabric", "price": 400, "imageUrl": "https://m.media-amazon.com/images/I/81XQviiznrL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 202, "name": "Linen Shirt Fabric", "price": 600, "imageUrl": "https://m.media-amazon.com/images/I/21FnOvpQETL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 203, "name": "Blend Shirt Fabric", "price": 550, "imageUrl": "https://m.media-amazon.com/images/I/716VECfcZOL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 204, "name": "Checkered Shirt Fabric", "price": 500, "imageUrl": "https://m.media-amazon.com/images/I/81EYJ7C2UgS._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 205, "name": "Stripe Shirt Fabric", "price": 650, "imageUrl": "https://m.media-amazon.com/images/I/71miurf4EyL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 206, "name": "Plaid Shirt Fabric", "price": 450, "imageUrl": "https://m.media-amazon.com/images/I/714pbMuuYrL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 207, "name": "Plain Cotton Shirt Fabric", "price": 550, "imageUrl": "https://m.media-amazon.com/images/I/51UrKGas7cL._SX679_.jpg" },
+        { "id": 208, "name": "Oxford Shirt Fabric", "price": 700, "imageUrl": "https://m.media-amazon.com/images/I/915F9WaMf8L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 209, "name": "Satin Shirt Fabric", "price": 750, "imageUrl": "https://m.media-amazon.com/images/I/61XPcWSs0XL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 210, "name": "Denim Shirt Fabric", "price": 900, "imageUrl": "https://m.media-amazon.com/images/I/81zNZy9j+dL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 211, "name": "Twill Shirt Fabric", "price": 600, "imageUrl": "https://m.media-amazon.com/images/I/51aFnaZB2qL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 212, "name": "Gingham Shirt Fabric", "price": 500, "imageUrl": "https://m.media-amazon.com/images/I/71ih6OQWNGL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 213, "name": "Houndstooth Shirt Fabric", "price": 650, "imageUrl": "https://m.media-amazon.com/images/I/71ih6OQWNGL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 214, "name": "Chambray Shirt Fabric", "price": 800, "imageUrl": "https://m.media-amazon.com/images/I/51O9EsOoUqL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 215, "name": "Pinstripe Shirt Fabric", "price": 700, "imageUrl": "https://m.media-amazon.com/images/I/61XPcWSs0XL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 216, "name": "Gauze Shirt Fabric", "price": 450, "imageUrl": "https://m.media-amazon.com/images/I/213LSHKVhyL._AC_UL480_FMwebp_QL65_.jpg" }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Suiting Fabrics",
+      "description": "Fabrics for suits and trousers, typically in wool, polyester, and blended materials.",
+      "items": [
+        { "id": 301, "name": "Wool Suiting Fabric", "price": 1000, "imageUrl": "https://m.media-amazon.com/images/I/81LyrBTc5RL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 302, "name": "Polyester Suiting Fabric", "price": 800, "imageUrl": "https://m.media-amazon.com/images/I/31abVZz76IL._SY445_SX342_QL70_FMwebp_.jpg" },
+        { "id": 303, "name": "Blended Suiting Fabric", "price": 900, "imageUrl": "https://m.media-amazon.com/images/I/81ztuqM5BkS._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 304, "name": "Pinstripe Suiting Fabric", "price": 950, "imageUrl": "https://m.media-amazon.com/images/I/512D+JkvdVL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 305, "name": "Tweed Suiting Fabric", "price": 1200, "imageUrl": "https://m.media-amazon.com/images/I/71HzoqjviPL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 306, "name": "Cashmere Suiting Fabric", "price": 1800, "imageUrl": "https://m.media-amazon.com/images/I/615rpPbV79L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 307, "name": "Linen Suiting Fabric", "price": 650, "imageUrl": "https://m.media-amazon.com/images/I/21FnOvpQETL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 308, "name": "Flannel Suiting Fabric", "price": 1100, "imageUrl": "https://m.media-amazon.com/images/I/71pDzXBO6wL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 309, "name": "Silk Suiting Fabric", "price": 1500, "imageUrl": "https://m.media-amazon.com/images/I/61htmsk91AL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 310, "name": "Cotton Suiting Fabric", "price": 950, "imageUrl": "https://m.media-amazon.com/images/I/21S91rLbYxL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 311, "name": "Herringbone Suiting Fabric", "price": 1050, "imageUrl": "https://m.media-amazon.com/images/I/61jHDrAEahL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 312, "name": "Chalkstripe Suiting Fabric", "price": 1200, "imageUrl": "https://m.media-amazon.com/images/I/71PDVd5-ZuL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 313, "name": "Glenn Plaid Suiting Fabric", "price": 1000, "imageUrl": "https://m.media-amazon.com/images/I/71uzyuIx0uL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 314, "name": "Dobby Suiting Fabric", "price": 800, "imageUrl": "https://m.media-amazon.com/images/I/61o5D0zugXL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 315, "name": "Tartan Suiting Fabric", "price": 1100, "imageUrl": "https://m.media-amazon.com/images/I/81t8klcpqwL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 316, "name": "Seersucker Suiting Fabric", "price": 950, "imageUrl": "https://m.media-amazon.com/images/I/811VE33WC4L._AC_UL480_FMwebp_QL65_.jpg" }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "Kurta Fabrics",
+      "description": "Fabrics for making kurtas, available in silk, cotton, and other rich materials.",
+      "items": [
+        { "id": 401, "name": "Silk Kurta Fabric", "price": 1500, "imageUrl": "https://m.media-amazon.com/images/I/51+13B39krL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 402, "name": "Cotton Kurta Fabric", "price": 600, "imageUrl": "https://m.media-amazon.com/images/I/51-eiyK7YUL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 403, "name": "Brocade Kurta Fabric", "price": 1200, "imageUrl": "https://m.media-amazon.com/images/I/71gL4Nhw63L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 404, "name": "Chanderi Kurta Fabric", "price": 800, "imageUrl": "https://m.media-amazon.com/images/I/61gGMWnHHVL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 405, "name": "Kota Doria Kurta Fabric", "price": 1000, "imageUrl": "https://m.media-amazon.com/images/I/51M+hN10OHL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 406, "name": "Muslin Kurta Fabric", "price": 700, "imageUrl": "https://m.media-amazon.com/images/I/71a7mh5trWL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 407, "name": "Khadi Kurta Fabric", "price": 500, "imageUrl": "https://m.media-amazon.com/images/I/81bJ+gi+gGL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 408, "name": "Velvet Kurta Fabric", "price": 1500, "imageUrl": "https://m.media-amazon.com/images/I/61e0xLrkFjL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 409, "name": "Georgette Kurta Fabric", "price": 900, "imageUrl": "https://m.media-amazon.com/images/I/71ivgY-OSQL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 410, "name": "Cotton Silk Kurta Fabric", "price": 850, "imageUrl": "https://m.media-amazon.com/images/I/71aaO5gA2mL._AC_UL480_FMwebp_QL65_.jpg" },
+                { "id": 411, "name": "Linen Kurta Fabric", "price": 750, "imageUrl": "https://m.media-amazon.com/images/I/31EUjkuwQfL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 412, "name": "Chikan Kurta Fabric", "price": 1100, "imageUrl": "https://m.media-amazon.com/images/I/21g8+brBz7L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 413, "name": "Banarasi Silk Kurta Fabric", "price": 2000, "imageUrl": "https://m.media-amazon.com/images/I/61ynSpyilaL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 414, "name": "Jacquard Kurta Fabric", "price": 1300, "imageUrl": "https://m.media-amazon.com/images/I/91Vh7tip-9L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 415, "name": "Patola Silk Kurta Fabric", "price": 2500, "imageUrl": "https://m.media-amazon.com/images/I/41BzjZIxI+L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 416, "name": "Satin Kurta Fabric", "price": 1100, "imageUrl": "https://m.media-amazon.com/images/I/316UZdf83b._AC_UL480_FMwebp_QL65_.jpg" }
+      ]
+    },
+    {
+      "id": 5,
+      "category": "Lungi",
+      "description": "A traditional wraparound garment, popular in southern parts of India, available in different colors and patterns.",
+      "items": [
+        { "id": 501, "name": "Plain Lungi", "price": 300, "imageUrl": "https://m.media-amazon.com/images/I/51avj6MSyIL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 502, "name": "Patterned Lungi", "price": 450, "imageUrl": "https://m.media-amazon.com/images/I/816Tb-ReH6L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 503, "name": "Checkered Lungi", "price": 400, "imageUrl": "https://m.media-amazon.com/images/I/81GeVlIcDsL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 504, "name": "Cotton Lungi", "price": 350, "imageUrl": "https://m.media-amazon.com/images/I/71zTxWL2fPL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 505, "name": "Silk Lungi", "price": 800, "imageUrl": "https://m.media-amazon.com/images/I/81xzIHtFzYL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 506, "name": "Plain Cotton Lungi", "price": 300, "imageUrl": "https://m.media-amazon.com/images/I/61ACA1uYgRL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 507, "name": "Printed Lungi", "price": 500, "imageUrl": "https://m.media-amazon.com/images/I/61x1ujjCpQL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 508, "name": "Floral Lungi", "price": 450, "imageUrl": "https://m.media-amazon.com/images/I/41o+6vZgGNL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 509, "name": "Striped Lungi", "price": 400, "imageUrl": "https://m.media-amazon.com/images/I/81c6YayO0rL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 510, "name": "Cotton Silk Lungi", "price": 600, "imageUrl": "https://m.media-amazon.com/images/I/81q9WgtjOGL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 511, "name": "Checked Silk Lungi", "price": 750, "imageUrl": "https://m.media-amazon.com/images/I/810InR6ceHL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 512, "name": "Geometric Lungi", "price": 550, "imageUrl": "https://m.media-amazon.com/images/I/816Tb-ReH6L._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 513, "name": "Traditional Lungi", "price": 600, "imageUrl": "https://m.media-amazon.com/images/I/61xLk6VSNXL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 514, "name": "Designer Lungi", "price": 950, "imageUrl": "https://m.media-amazon.com/images/I/51xgFa968CL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 515, "name": "Paisley Lungi", "price": 650, "imageUrl": "https://m.media-amazon.com/images/I/71qwcWotAEL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 516, "name": "Jacquard Lungi", "price": 850, "imageUrl": "https://m.media-amazon.com/images/I/81ymcEvuTIL._AC_UL480_FMwebp_QL65_.jpg" }
+      ]
+    },
+    {
+      "id": 6,
+      "category": "Sherwani Fabrics",
+      "description": "Rich fabrics like silk or brocade, used for sherwanis, especially during weddings.",
+      "items": [
+        { "id": 601, "name": "Silk Sherwani Fabric", "price": 2500, "imageUrl": "https://m.media-amazon.com/images/I/81ECyT-WNbL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 602, "name": "Brocade Sherwani Fabric", "price": 3000, "imageUrl": "https://m.media-amazon.com/images/I/919L35zNLCL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 603, "name": "Velvet Sherwani Fabric", "price": 3500, "imageUrl": "https://m.media-amazon.com/images/I/81AP6PX+HaL._SX679_.jpg" },
+        { "id": 604, "name": "Georgette Sherwani Fabric", "price": 4000, "imageUrl": "https://m.media-amazon.com/images/I/91TFGvtg80L._SX679_.jpg" },
+        { "id": 605, "name": "Satin Sherwani Fabric", "price": 2200, "imageUrl": "https://m.media-amazon.com/images/I/81ECyT-WNbL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 606, "name": "Taffeta Sherwani Fabric", "price": 3000, "imageUrl": "https://m.media-amazon.com/images/I/91TsMQNsQJL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 607, "name": "Organza Sherwani Fabric", "price": 3200, "imageUrl": "https://m.media-amazon.com/images/I/61ynsFiucqL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 608, "name": "Linen Sherwani Fabric", "price": 1800, "imageUrl": "https://m.media-amazon.com/images/I/51O+KRe6MTS._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 609, "name": "Dupion Silk Sherwani Fabric", "price": 2700, "imageUrl": "https://m.media-amazon.com/images/I/61bI1yqhWwL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 610, "name": "Moiré Sherwani Fabric", "price": 3500, "imageUrl": "https://m.media-amazon.com/images/I/61+PUSuq1XL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 611, "name": "Raw Silk Sherwani Fabric", "price": 2500, "imageUrl": "https://m.media-amazon.com/images/I/81hCASPi9eL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 612, "name": "Chiffon Sherwani Fabric", "price": 3000, "imageUrl": "https://m.media-amazon.com/images/I/31ZArooYpEL.jpg" },
+        { "id": 613, "name": "Silk Blend Sherwani Fabric", "price": 2800, "imageUrl": "https://m.media-amazon.com/images/I/71IMKZyrAmL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 614, "name": "Jacquard Sherwani Fabric", "price": 3300, "imageUrl": "https://m.media-amazon.com/images/I/71Bg8o8ubpL._AC_UL480_FMwebp_QL65_.jpg" },
+        { "id": 615, "name": "Net Sherwani Fabric", "price": 2900, "imageUrl": "https://m.media-amazon.com/images/I/71cqIfUBncL._SX679_.jpg" },
+        { "id": 616, "name": "Brocade Velvet Sherwani Fabric", "price": 3700, "imageUrl": "https://m.media-amazon.com/images/I/71HppM9OdWL._AC_UL480_FMwebp_QL65_.jpg" }
+      ]
+    }
+  ]
+}
+

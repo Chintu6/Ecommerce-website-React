@@ -1,0 +1,179 @@
+/* Category buttons container */
+.category-buttons {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.category-btn {
+  padding: 10px 20px;
+  border: 1px solid #a0afbf;
+  background-color: #fff;
+  color: #08090a;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s, color 0.3s;
+  margin: 5px; /* Ensure buttons have space between them */
+}
+
+.category-btn:hover {
+  background-color: #484d53;
+  color: white;
+}
+
+.category-btn.active {
+  background-color: #070707;
+  color: white;
+}
+
+/* Card actions container */
+.card-actions {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+/* Button style for Add to Cart */
+.card-actions .btn-primary {
+  color: white;
+  border: none;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+/* Button style for Add to Wishlist */
+.card-actions {
+  color: white;
+  border: none;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+/* Icon style */
+.card-actions .btn i {
+  font-size: 16px;
+}
+
+/* Products grid display */
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: space-around; /* Ensure even spacing across rows */
+}
+
+/* Sort button container */
+.sort-container {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: flex-start; /* Align sort button to the left */
+  flex-wrap: wrap; /* Allow wrapping for smaller screens */
+}
+
+/* Sort button */
+.sort-button {
+  padding: 10px 20px;
+  margin-left: 30px;
+  background-color: #7d7f82;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.sort-button:hover {
+  background-color: #131414;
+}
+
+/* Dropdown menu for sort options */
+.sort-options-dropdown {
+  position: absolute;
+  top: 100%;
+  background-color: white;
+  border: 1px solid #ddd;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  width: 200px;
+}
+
+.sort-option {
+  padding: 10px;
+  background-color: #fff;
+  border: none;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+}
+
+.sort-option:hover {
+  background-color: #f1f1f1;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  /* Adjust category buttons for smaller screens */
+  .category-buttons {
+    justify-content: space-evenly; /* Adjust alignment */
+  }
+
+  .category-btn {
+    font-size: 14px; /* Smaller font size */
+    padding: 8px 15px; /* Adjust padding */
+  }
+
+  /* Adjust product grid for smaller screens */
+  .products {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center; /* Center products */
+  }
+
+  /* Sort button */
+  .sort-button {
+    margin-left: 15px;
+    padding: 8px 15px; /* Adjust padding */
+  }
+
+  /* Dropdown menu width */
+  .sort-options-dropdown {
+    width: 180px;
+  }
+}
+
+@media (max-width: 480px) {
+  /* Further adjustments for mobile screens */
+  .category-btn {
+    font-size: 12px;
+    padding: 6px 12px;
+  }
+
+  .sort-button {
+    padding: 6px 12px; /* Adjust padding */
+  }
+
+  .sort-options-dropdown {
+    width: 160px; /* Reduce dropdown width */
+  }
+}
+.floating-message {
+  position: fixed;
+  top: 96vh;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(0, 128, 0, 0.8); /* Semi-transparent green background */
+  color: white;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  z-index: 1000; /* Ensure it appears above other elements */
+  font-size: 1.2em;
+  text-align: center;
+  transition: opacity 0.5s ease-in-out;
+}
+
