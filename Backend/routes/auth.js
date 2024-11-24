@@ -1,4 +1,3 @@
-require('dotenv').config();
 const express = require('express');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
@@ -21,7 +20,10 @@ router.post('/signup', async (req, res) => {
       return res.status(400).json({ msg: 'User already exists' });
     }
 
-    user = new User({ emailOrMobile, password });
+    user = new User({
+      emailOrMobile,
+      password,
+    });
 
     const salt = await bcrypt.genSalt(10);
     user.password = await bcrypt.hash(password, salt);
@@ -51,7 +53,7 @@ router.post('/login', async (req, res) => {
     }
 
     const payload = { userId: user._id };
-    const token = jwt.sign(payload, process.env.JWT_SECRET, { expiresIn: '1h' });
+    const token = jwt.sign(payload, 'your_jwt_secret', { expiresIn: '1h' });
 
     res.json({ token });
   } catch (error) {
