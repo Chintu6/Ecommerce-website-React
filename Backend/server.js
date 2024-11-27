@@ -2,19 +2,20 @@ const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");
 const bodyParser = require("body-parser");
-const bcrypt = require('bcryptjs');  // Add bcryptjs for password hashing
+const bcrypt = require("bcryptjs"); // Add bcryptjs for password hashing
+require("dotenv").config(); // Load environment variables from .env file
 
 const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 
-// MongoDB connection
+// MongoDB connection using environment variable
 mongoose
-  .connect("mongodb://127.0.0.1:27017/myapp", {
+  .connect(process.env.MONGODB_URI, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
-  .then(() => console.log("MongoDB connected on localhost"))
+  .then(() => console.log("MongoDB connected"))
   .catch((err) => console.error("MongoDB connection error:", err));
 
 // User schema and model
@@ -100,7 +101,7 @@ app.get("/api/user/:emailOrMobile", async (req, res) => {
     if (!user) {
       return res.status(404).json({ error: "User not found" });
     }
-    res.status(200).json(user);  // Address is now part of the user object
+    res.status(200).json(user); // Address is now part of the user object
   } catch (error) {
     console.error("Error fetching user details:", error);
     res.status(500).json({ error: "Failed to fetch user details" });
@@ -114,7 +115,7 @@ app.put("/api/user/:emailOrMobile", async (req, res) => {
   try {
     const user = await User.findOneAndUpdate(
       { emailOrMobile },
-      { name, mobile, profileImage, address },  // Include address here
+      { name, mobile, profileImage, address }, // Include address here
       { new: true, upsert: false }
     );
     if (!user) {
